@@ -2,7 +2,8 @@
 
 ## Description
 
-A command line application using node.js. Allows a user to build an html page populated with cards representing members of a corporate team. 
+A command line application using node.js. Allows a user to build an html page populated with cards representing members of a corporate team. To create this application I used node.js, the npm packages inquirer and jest, and the built in fs package. I made use of async and await to handle promises, and learned a lot about synchronicity in javascript.
+
 See this link for a video walkthrough of the application: https://drive.google.com/file/d/15gGOm6g41SsOHeDN8RZlLTqz2vLSIMnC/view
 
 ## Table of Contents
