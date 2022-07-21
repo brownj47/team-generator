@@ -3,7 +3,7 @@
 ## Description
 
 A command line application using node.js. Allows a user to build an html page populated with cards representing members of a corporate team. 
-See this link for a video walkthrough of the application: 
+See this link for a video walkthrough of the application: https://drive.google.com/file/d/15gGOm6g41SsOHeDN8RZlLTqz2vLSIMnC/view
 
 ## Table of Contents
 
